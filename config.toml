@@ -9,7 +9,7 @@ title = 'Jackson Gothe-Snape'
 ## Publish
 ## -----------------------------------------------
 
-relativeURLs = "true"
+#relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
