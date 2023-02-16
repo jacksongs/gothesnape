@@ -3,6 +3,8 @@
 ## -----------------------------------------------
 
 theme = "hugo-story"
+languageCode = 'en-us'
+title = 'Jackson Gothe-Snape'
 
 ## -----------------------------------------------
 ## Publish
