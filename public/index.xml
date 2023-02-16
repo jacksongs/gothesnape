@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Story</title>
-    <link>/</link>
-    <description>Recent content on Hugo Story</description>
+    <title>Jackson Gothe-Snape</title>
+    <link>https://jacksongs.github.io/gothesnape/</link>
+    <description>Recent content on Jackson Gothe-Snape</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>{year}</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jacksongs.github.io/gothesnape/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
