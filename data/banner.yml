@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Jackson Gothe-Snape"
+subtitle: |
+  Striving to hold power to account.
+content : |
+  <strong>Investigative journalist in the Indo-Pacific.</strong> Writer, videographer, cartographer and coder. As seen on ABC, SBS and News Corp.
+button:
+  label : "Email"
+  link : "mailto:jacksongs@gmail.com"
+image : "images/banner.jpg"
+
