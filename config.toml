@@ -35,3 +35,8 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 [Params]
 
 [Params.social]
+twitter = "https://www.twitter.com/jacksongs"
+github = "https://www.github.com/jacksongs"
+instagram = "https://www.instagram.com/jacksongs"
+linkedin = "https://www.linkedin.com/in/jacksongs/"
+email = "jacksongs@gmail.com"
