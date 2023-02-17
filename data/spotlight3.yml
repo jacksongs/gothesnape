@@ -1,10 +1,10 @@
 ####################### Spotlight #########################
 style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+title : "International exclusives"
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  Uncovered stories about Australia's <a href="https://www.abc.net.au/news/2019-03-30/china-in-antarctica-inspection-regime/10858486">lax record</a> of environmental inspections in Antarctica, <a href="https://www.abc.net.au/news/2018-04-13/how-dutton-slowed-immigration/9646602">secret tweaks</a> to Australia's migration system that disadvantaged Asian migrants, and a <a href="https://www.abc.net.au/news/2019-10-09/olyroos-riley-mcgree-show-cause-cambodia/11577578">hidden investigation</a> into the behaviour of touring footballers in Cambodia.
 button: 
-  label: "Learn More"
-  link: "#"
-image: "images/spotlight03.jpg"
+  label: "Watch"
+  link: "https://www.facebook.com/watch/?v=399515864273734"
+image: "images/antarcticbase.jpeg"

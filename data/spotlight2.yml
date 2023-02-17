@@ -1,9 +1,9 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Spotlight"
+title : "Lobbyist monitoring"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  <i>The National Advocate</i> newsletter leveraged long-running scrapers to collate and analyse changes to the federal, state and territory lobbyist registers in 2019 and 2020, and was featured in <i>The Financial Review</i>.
 button: 
   label: "Learn More"
-  link: "#"
-image: "images/spotlight02.jpg"
+  link: "https://www.afr.com/rear-window/fast-changing-edicts-keep-lobbyists-in-demand-20200326-p54e5n"
+image: "images/thenatadv.png"
