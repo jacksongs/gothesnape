@@ -2,7 +2,7 @@
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 title : "Lobbyist monitoring"
 content: |
-  <i>The National Advocate</i> newsletter leveraged long-running scrapers to collate and analyse changes to the federal, state and territory lobbyist registers in 2019 and 2020, and was featured in <i>The Financial Review</i>.
+  <i>The National Advocate</i> newsletter leveraged long-running scrapers to collate and analyse changes to the Australian federal, state and territory lobbyist registers in 2019 and 2020, and was featured in newspaper <i>The Financial Review</i>.
 button: 
   label: "Learn More"
   link: "https://www.afr.com/rear-window/fast-changing-edicts-keep-lobbyists-in-demand-20200326-p54e5n"
