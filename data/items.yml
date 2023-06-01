@@ -1,26 +1,26 @@
-title : "Current investigations"
+title : "Investigations"
 content: |
   Please <a href="mailto:jacksongs@gmail.com">get in touch</a> if you have information you would like to share.
 style: "style1 small onscroll-fade-in"
 items:
   # feature item loop
-  - name : "Sports betting"
+  - name : "Betting"
     content : "Australia's smallest territory is largely responsible for the country's regulation over <a href='https://www.abc.net.au/news/2022-05-03/sport-betting-online-gambling-tax-taxation-levy/101031192'>online sports betting</a>."
     style : "style2 major fa-funnel-dollar"
 
   # feature item loop
-  - name : "Habitation and heat"
-    content : "Swathes of the Indo-Pacific are already at the limit of human habitation amid accelerating climate change."
-    style : "solid style2 major fa-sun"
+  - name : "Infrastructure"
+    content : "Hundreds of millions of taxpayer dollars continue to be spent on stadiums, and funding for grassroots facilities is <a href='https://www.abc.net.au/news/2019-11-11/community-sport-infrastructure-grants-unsuccessful/11680998'>often political</a>."
+    style : "solid style2 major fa-life-ring"
         
   # feature item loop
-  - name : "Mining and petroleum"
-    content : "Scrutiny of mining and petroleum permits ensures communities benefit alongside corporates."
-    style : "solid style2 major fa-gas-pump"
+  - name : "Cost"
+    content : "Participants and parents can pay <a href='https://www.abc.net.au/news/2023-04-28/cost-sport-participation-gym-fitness-golf-swimming-ausplay/102277672'>thousands</a> in fees and levies, and sport's administrators are obliged to deliver value for money."
+    style : "solid style2 major fa-usd"
 
   # feature item loop
-  - name : "Indo-Pacific build-up"
-    content : "Increasing military activity in the Indo-Pacific brings investment, attention and risk to the region."
-    style : "solid style2 major fa-plane-departure"
+  - name : "Governance"
+    content : "Just as in broader society, those in sport who enjoy power <a href='https://www.abc.net.au/news/2022-02-24/gymnastics-australia-complaints-kitty-chiller-sport-integrity/100850272'>must be held to account</a>."
+    style : "solid style2 major fa-handshake"
 
     

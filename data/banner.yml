@@ -2,9 +2,9 @@
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : "Jackson Gothe-Snape"
 subtitle: |
-  How do decisions by governments and corporations affect people and places?
+  <strong>Investigative journalist and sportswriter.</strong> 
 content : |
-  <strong>Investigative journalist based in Darwin.</strong> Writer, filmmaker and coder. As seen on ABC, SBS and News Corp.
+  Sports reporter for Guardian Australia, and sometimes on ABC RN Breakfast.<br>Also known as Jack Snape.
 button:
   label : "Email"
   link : "mailto:jacksongs@gmail.com"
