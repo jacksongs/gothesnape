@@ -1,26 +1,26 @@
-title : "Investigations"
+title : "Interests"
 content: |
-  Please <a href="mailto:jacksongs@gmail.com">get in touch</a> if you have information you would like to share.
+  Please <a href="mailto:jack.snape@theguardian.com">get in touch</a> if you have information you would like to share.
 style: "style1 small onscroll-fade-in"
 items:
   # feature item loop
-  - name : "Betting"
-    content : "Australia's smallest territory is largely responsible for the country's regulation over <a href='https://www.abc.net.au/news/2022-05-03/sport-betting-online-gambling-tax-taxation-levy/101031192'>online sports betting</a>."
-    style : "style2 major fa-funnel-dollar"
+  - name : "Sportswriting"
+    content : "Find me at AFL and NRL grand finals, the Matildas and Socceroos, cricket, tennis, F1, the Olympics and more."
+    style : "style2 major fa-pencil"
 
   # feature item loop
   - name : "Infrastructure"
-    content : "Hundreds of millions of taxpayer dollars continue to be spent on stadiums, and funding for grassroots facilities is <a href='https://www.abc.net.au/news/2019-11-11/community-sport-infrastructure-grants-unsuccessful/11680998'>often political</a>."
-    style : "solid style2 major fa-life-ring"
+    content : "How sporting infrastructure is funded and what the future holds for stadiums and grassroots facilities in Australia."
+    style : "solid style2 major fa-building"
         
   # feature item loop
-  - name : "Cost"
-    content : "Participants and parents can pay <a href='https://www.abc.net.au/news/2023-04-28/cost-sport-participation-gym-fitness-golf-swimming-ausplay/102277672'>thousands</a> in fees and levies, and sport's administrators are obliged to deliver value for money."
+  - name : "Finances"
+    content : "The challenges for codes, clubs and players in meeting demands for growth."
     style : "solid style2 major fa-usd"
 
   # feature item loop
-  - name : "Governance"
-    content : "Just as in broader society, those in sport who enjoy power <a href='https://www.abc.net.au/news/2022-02-24/gymnastics-australia-complaints-kitty-chiller-sport-integrity/100850272'>must be held to account</a>."
-    style : "solid style2 major fa-handshake"
+  - name : "Broadcasting"
+    content : "Consumption habits are changing, but sport remains one of the pillars of the Australian media landscape."
+    style : "solid style2 major fa-television"
 
     
